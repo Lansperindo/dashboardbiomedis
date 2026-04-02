@@ -528,9 +528,8 @@ fig_heatmap = go.Figure(
         hovertemplate="%{y}<br>%{x}: %{z:.1f}%<extra></extra>",
         showscale=True,
         colorbar=dict(
-            title="%",
+            title=dict(text="%", font=dict(color="#334155")),
             tickfont=dict(color="#334155"),
-            titlefont=dict(color="#334155"),  # Perbaikan di sini
         ),
     )
 )
