@@ -1,0 +1,363 @@
+ID_Alat,Nama_Alat,SN,Ruangan,Stiker_Label,Lembar_SOP,Stiker_Kalibrasi,Kondisi
+1,USG,LP7U40001025,Radiologi,Ada,Ada,Ada,Baik
+2,USG,212913,Radiologi,Ada,Ada,Ada,Baik
+3,X-Ray Panoramic,33801,Radiologi,Ada,Tidak,Ada,Baik
+4,Mammography,5753-97,Radiologi,Ada,Tidak,Ada,Baik
+5,X-Ray Filmillustrsator,-,Radiologi,Tidak,Tidak,Tidak,Baik
+6,X-Ray Panoramic,M2004015,Radiologi,Tidak,Tidak,Ada,Baik
+7, X-Ray Mobile,-,Radiologi,Tidak,Tidak,Tidak,Baik
+8,X-Ray Panoramic,-,Radiologi,Tidak,Tidak,Tidak,Rusak
+9,Dental X-Ray ,E01303,Radiologi,Ada,Ada,Ada,Rusak
+10,X-Ray Panoramic,3345233,Radiologi,Ada,Tidak,Ada,Rusak
+11,X-Ray Panoramic,17755,Radiologi,Tidak,Tidak,Tidak,Rusak
+12,X-Ray Mobile,2156,Radiologi,Tidak,Ada,Tidak,Rusak
+13,Dental Unit,200411201,Radiologi,Ada,Tidak,Tidak,Rusak
+14,USG,100502008527,Radiologi,Tidak,Tidak,Tidak,Rusak
+15,X-Ray Mobile,-,Radiologi,Tidak,Tidak,Tidak,Rusak
+16,Suction Pump,412338,Radiologi,Tidak,Tidak,Tidak,Rusak
+17,X-Ray Panoramic,-,Radiologi,Tidak,Tidak,Tidak,Rusak
+18,Laser Imager,59539459,Radiologi,Tidak,Tidak,Tidak,Rusak
+19,Laser Imager,59538160,Radiologi,Tidak,Tidak,Tidak,Rusak
+20,X-Ray Filmillustrator,-,Radiologi,Tidak,Tidak,Tidak,Rusak
+21,X-Ray Filmillustrator,-,Radiologi,Tidak,Tidak,Tidak,Rusak
+22,Timbangan dan pengukur tinggi badan,2,IDT,Ada,Tidak,Ada,Baik
+23,Tensimeter Manual,3670206,IDT,Ada,Tidak,Ada,Baik
+24,Stetoskop,-,IDT,Tidak,Tidak,Tidak,Baik
+25,Stetoskop,-,IDT,Tidak,Tidak,Tidak,Baik
+26,Tensimeter Digital,BPM0011BD266A,IDT,Ada,Tidak,Ada,Baik
+27,Bed Pasien,AZ2023W30068,IDT,Tidak,Tidak,Tidak,Baik
+28,Bed Pasien,AZ2023W30029,IDT,Tidak,Tidak,Tidak,Baik
+29,Bed Pasien,10241160197036,IDT,Tidak,Tidak,Tidak,Baik
+30,Bed Pasien,2108622110000042,IDT,Tidak,Tidak,Tidak,Baik
+31,Bed Pasien,2108622110000142,IDT,Tidak,Tidak,Tidak,Baik
+32,Tensimeter Digital,34010196,IDT,Ada,Tidak,Ada,Baik
+33,Bed Pasien,-,IDT,Tidak,Tidak,Tidak,Baik
+34,Bed Pasien,-,IDT,Tidak,Tidak,Tidak,Baik
+35,Syringe Pump,1507000207,ICCU,Ada,Tidak,Ada,Baik
+36,Syringe Pump,1507000204,ICCU,Ada,Tidak,Ada,Baik
+37,Syringe Pump,SK10806960,ICCU,Ada,Tidak,Ada,Baik
+38,Syringe Pump,15070000202,ICCU,Ada,Tidak,Ada,Baik
+39,Syringe Pump,15410806982,ICCU,Tidak,Tidak,Ada,Baik
+40,Syringe Pump,15100100450,ICCU,Ada,Tidak,Ada,Baik
+41,EKG,W19000580030,ICCU,Ada,Tidak,Ada,Baik
+42,Trolley,-,ICCU,Ada,Tidak,Ada,Baik
+43,Trolley,-,ICCU,Ada,Tidak,Ada,Baik
+44,Bedside Kabinet,-,ICCU,Ada,Tidak,Ada,Baik
+45,Bedside Kabinet,-,ICCU,Ada,Tidak,Ada,Baik
+46,Bedside Kabinet,-,ICCU,Ada,Tidak,Ada,Baik
+47,Bedside Kabinet,-,ICCU,Ada,Tidak,Ada,Baik
+48,Nebulizer,UN0120SAC317,ICCU,Ada,Tidak,Ada,Baik
+49,Oxygen Mobile,-,ICCU,Ada,Tidak,Ada,Baik
+50,Lampu Sorot,-,ICCU,Ada,Tidak,Ada,Baik
+51,Tiang Infus,-,ICCU,Ada,Tidak,Ada,Baik
+52,Tiang Infus,-,ICCU,Ada,Tidak,Ada,Baik
+53,Tiang Infus,-,ICCU,Ada,Tidak,Ada,Baik
+54,Tiang Infus,-,ICCU,Ada,Tidak,Ada,Baik
+55,Tiang Infus,-,ICCU,Ada,Tidak,Ada,Baik
+56,Suction Portable,21F0009895,ICCU,Ada,Tidak,Ada,Baik
+57,Kursi Roda,-,ICCU,Ada,Tidak,Ada,Baik
+58,Infusion Pump,901201200411704,ICCU,Ada,Tidak,Ada,Baik
+59,Infusion Pump,SK10805893,ICCU,Ada,Tidak,Ada,Baik
+60,Infusion Pump,SK10805084,ICCU,Tidak,Tidak,Tidak,Baik
+61,Suction Central,-,ICCU,Ada,Tidak,Ada,Baik
+62,Suction Central,-,ICCU,Ada,Tidak,Ada,Baik
+63,Suction Central,-,ICCU,Ada,Tidak,Ada,Baik
+64,Suction Central,-,ICCU,Ada,Tidak,Ada,Baik
+65,Flowmeter,-,ICCU,Ada,Tidak,Ada,Baik
+66,Flowmeter,-,ICCU,Ada,Tidak,Ada,Baik
+67,Flowmeter,-,ICCU,Ada,Tidak,Ada,Baik
+68,Flowmeter,-,ICCU,Ada,Tidak,Ada,Baik
+69,Ventilator,50059,ICCU,Ada,Tidak,Ada,Baik
+70,Lampu Baca,-,ICCU,Ada,Tidak,Ada,Baik
+71,DC Shock,D6-6B015813,ICCU,Ada,Tidak,Ada,Baik
+72,Bedside Monitor,622501101,ICCU,Ada,Tidak,Ada,Baik
+73,Trolley Obat,-,ICCU,Ada,Tidak,Ada,Baik
+74,Bedside Monitor,SNB90400017H1,ICCU,Ada,Tidak,Ada,Baik
+75,Bedside Monitor,5036208033,ICCU,Tidak,Tidak,Ada,Baik
+76,Bedside Monitor,SK3633022H4,ICCU,Ada,Tidak,Ada,Baik
+77,Bed Side Monitor,4351202300014,PICU,Ada,Tidak,Ada,Baik
+78,Bed Side Monitor,4351210230009,PICU,Ada,Tidak,Ada,Baik
+79,Bed Side Monitor,5351210230015,PICU,Ada,Tidak,Ada,Baik
+80,Bed Side Monitor,4351202300013,PICU,Ada,Tidak,Ada,Baik
+81,Baby Incubator Transport ,BIT002NC,PICU,Ada,Tidak,Ada,Baik
+82,Infont Ventilator,173030,PICU,Ada,Tidak,Ada,Baik
+83,Infont Ventilator,15661,PICU,Ada,Tidak,Ada,Baik
+84,Laryngscope,70830215,PICU,Ada,Tidak,Tidak,Baik
+85,Infuse Pump,216211222099,PICU,Ada,Tidak,Ada,Baik
+86,Infuse Pump,216211222011,PICU,Ada,Tidak,Ada,Baik
+87,Infuse Pump,-,PICU,Ada,Tidak,Ada,Baik
+88,Infuse Pump,2162112220070,PICU,Ada,Tidak,Ada,Baik
+89,Suction Central,5030774,PICU,Tidak,Tidak,Ada,Baik
+90,Suction Central,5031124,PICU,Ada,Tidak,Ada,Baik
+91,Suction Central,5030450,PICU,Ada,Tidak,Ada,Baik
+92,Suction Central,503,PICU,Tidak,Tidak,Tidak,Baik
+93,Syringe Pump,02180808009230018,PICU,Ada,Tidak,Ada,Baik
+94,Syringe Pump,24060409230001,PICU,Ada,Tidak,Ada,Baik
+95,Syringe Pump,24060409230004,PICU,Ada,Tidak,Ada,Baik
+96,Syringe Pump,2060409230005,PICU,Ada,Ada,Ada,Baik
+97,Ventilator Transport,AY216046626,PICU,Ada,Tidak,Ada,Baik
+98,Trolley Emergency + Timbangan Bayi,-,PICU,Ada,Tidak,Ada,Baik
+99,Trolley Emergency ,-,PICU,Ada,Tidak,Ada,Baik
+100,Trolley Instrument,-,PICU,Ada,Tidak,Ada,Baik
+101,Timbangan + Tinggi Badan ,-,PICU,Ada,Tidak,Ada,Baik
+102,Ambubag Anak,-,PICU,Ada,Tidak,Ada,Baik
+103,Stetoscope,-,PICU,Ada,Tidak,Ada,Baik
+104,Nebulizer,202406022136VF,PICU,Tidak,Tidak,Tidak,Baik
+105,Nebulizer,202406022134VF,PICU,Tidak,Tidak,Tidak,Baik
+106,Nebulizer,202406022135VF,PICU,Tidak,Tidak,Tidak,Baik
+107,Minor Set,-,PICU,Ada,Tidak,Tidak,Baik
+108,Timbangan,901513202306118,PICU,Ada,Tidak,Tidak,Baik
+109,EKG,EM112780012,Hemodialisis,Ada,Ada,Ada,Baik
+110,Blood Pressure Monitor,BPM0012011724F,Hemodialisis,Ada,Tidak,Ada,Baik
+111,Timbangan Dewasa,TD004HD,Hemodialisis,Ada,Tidak,Tidak,Baik
+112,Blood Pressure Monitor,A0855,Hemodialisis,Ada,Tidak,Ada,Baik
+113,Tensemeter,BT66H,Hemodialisis,Ada,Tidak,Ada,Baik
+114,Interrupt Power Supply,1B1D22218128,Hemodialisis,Ada,Tidak,Tidak,Baik
+115,USG,60716200X0,Hemodialisis,Ada,Ada,Tidak,Baik
+116,Tensemeter,12BD2193,Hemodialisis,Ada,Tidak,Tidak,Baik
+117,Tensemeter,542,Hemodialisis,Ada,Tidak,Ada,Baik
+118,ESU Elektronom,11220004,Hemodialisis,Ada,Tidak,Tidak,Baik
+119,Mesin Anastesi ,X387321,Hemodialisis,Ada,Ada,Tidak,Baik
+120,Trolley Emergency,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+121,Tiang Infus,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+122,Meja Makan,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+123,Meja Makan,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+124,Timbangan Dewasa,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+125,Lampu Operasi Portable,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+126,Bedside Kabinet,-,Hemodialisis,Ada,Tidak,Tidak,Baik
+127,Tiang Infus,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+128,Tiang Infus,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+129,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+130,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+131,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+132,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+133,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+134,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+135,Trolley Instrument,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+136,Trolley Emergency,-,Hemodialisis,Tidak,Tidak,Tidak,Baik
+137,Meja Operasi,3290,Hemodialisis,Ada,Tidak,Tidak,Baik
+138,Lampu Operasi Portable,-,Hemodialisis,Ada,Tidak,Tidak,Baik
+139,Kulkas Mayat,270000915,Forensik,Ada,Tidak,Ada,Baik
+140,Kulkas Mayat,260000915,Forensik,Ada,Ada,Ada,Baik
+141,Kulkas Mayat,17127710,Forensik,Ada,Ada,Tidak,Rusak
+142,Trolley Emergency,-,Forensik,Tidak,Tidak,Tidak,Baik
+143,Trolley Emergency,-,Forensik,Tidak,Tidak,Tidak,Baik
+144,Trolley Emergency,-,Forensik,Tidak,Tidak,Tidak,Baik
+145,Trolley Emergency,-,Forensik,Tidak,Tidak,Tidak,Baik
+146,Lampu Sorot,-,Forensik,Tidak,Tidak,Tidak,Baik
+147,Timbangan + Tinggi Badan,-,Forensik,Tidak,Tidak,Tidak,Baik
+148,USG,320008500210,Rehabilitasi Medik,Ada,Tidak,Ada,Baik
+149,USG,30287-89,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+150,USG,21403520343,Rehabilitasi Medik,Ada,Tidak,Ada,Baik
+151,SWD,129,Rehabilitasi Medik,Ada,Tidak,Tidak,Rusak
+152,SWD,128,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+153,X-ray Filmillustrator,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+154,Timbangan,-,Rehabilitasi Medik,Ada,Tidak,Ada,Baik
+155,Tractizer,70582,Rehabilitasi Medik,Ada,Ada,Tidak,Baik
+156,Kursi Roda,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+157,Lampu Sorot,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+158,Lampu Sorot,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+159,Lampu Sorot,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+160,Bicyle Static,AH337843,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+161,Bicyle Static,AH337886,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+162,Bicyle Static,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+163,Shoulder Wheel,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+164,Shoulder Wheel,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+165,Quardiceps,7465,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+166,Quardiceps,7466,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+167,Staircase,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+168,Upperpule,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+169,Bola Yoga,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+170,Riding,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+171,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+172,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+173,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+174,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+175,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+176,Alat Bantu Pola Jalan Anak Berkebutuhan Khusus,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+177,Alat Bantu Jalan Stroke,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+178,Infrared ,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+179,Infrared ,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+180,Infrared ,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+181,Tensemeter,80002500219,Rehabilitasi Medik,Ada,Ada,Ada,Baik
+182,Electrostimulator,-,Rehabilitasi Medik,Ada,Ada,Tidak,Baik
+183,Diathermy,180013001643,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+184,NWD,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+185,Tensemeter,-,Rehabilitasi Medik,Ada,Tidak,Ada,Baik
+186,SWD,21403412463,Rehabilitasi Medik,Ada,Tidak,Ada,Baik
+187,Tractizer,275,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+188,Meja Instrumen,-,Rehabilitasi Medik,Ada,Tidak,Tidak,Baik
+189,Washer,W0509051,CSSD,Ada,Ada,Ada,Rusak
+190,Washer,W0A0909340,CSSD,Ada,Ada,Ada,Rusak
+191,Washer,-,CSSD,Tidak,Tidak,Ada,Baik
+192,Washer,170436,CSSD,Ada,Tidak,Ada,Baik
+193,Stericool,A1812532,CSSD,Ada,Tidak,Ada,Baik
+194,Autoclave,50602009,CSSD,Ada,Tidak,Ada,Rusak
+195,Autoclave,50602010,CSSD,Ada,Tidak,Ada,Lama Steril
+196,Autoclave Doubledoor,BAH090U22,CSSD,Ada,Tidak,Ada,Rusak
+197,Bed Side Monitor,SK316330002HA,Pemulihan,Ada,Ada,Ada,Baik
+198,Bed Side Monitor,SK316400033HA,Pemulihan,Ada,Ada,Ada,Baik
+199,Bed Side Monitor,SK316400038HA,Pemulihan,Ada,Ada,Ada,Baik
+200,Bed Side Monitor,15849932,Pemulihan,Ada,Ada,Ada,Baik
+201,Bed Side Monitor,-,Pemulihan,Ada,Ada,Ada,Baik
+202,Suction Central,-,Pemulihan,Ada,Ada,Ada,Baik
+203,Suction Central,-,Pemulihan,Ada,Ada,Ada,Baik
+204,Suction Central,-,Pemulihan,Ada,Ada,Ada,Baik
+205,Suction Central,-,Pemulihan,Ada,Ada,Ada,Baik
+206,Suction Central,-,Pemulihan,Ada,Ada,Ada,Baik
+207,Flowmeter,-,Pemulihan,Ada,Ada,Ada,Baik
+208,Flowmeter,-,Pemulihan,Ada,Ada,Ada,Baik
+209,Flowmeter,-,Pemulihan,Ada,Ada,Ada,Baik
+210,Flowmeter,-,Pemulihan,Ada,Ada,Ada,Baik
+211,Flowmeter,-,Pemulihan,Ada,Ada,Ada,Baik
+212,DC Shock,101115897,Pemulihan,Ada,Ada,Ada,Baik
+213,Syringe Pump,18094123497041,Pemulihan,Tidak,Tidak,Tidak,Baik
+214,Trolley Instrument,-,Pemulihan,Ada,Tidak,Tidak,Baik
+215,Trolley Instrument,-,Pemulihan,Tidak,Tidak,Tidak,Baik
+216,Tiang Infus,-,Pemulihan,Tidak,Tidak,Tidak,Baik
+217,Tiang Infus,-,Pemulihan,Tidak,Tidak,Tidak,Baik
+218,Tiang Infus,-,Pemulihan,Tidak,Tidak,Tidak,Baik
+219,Timbangan,-,Pemulihan,Ada,Tidak,Tidak,Baik
+220,Lampu Sorot,-,Patalogi Anatomi,Ada,Ada,Ada,Baik
+221,Frozen,24541052016,Patalogi Anatomi,Ada,Tidak,Tidak,Baik
+222,Tissue Processor,2009613,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+223,Dcloaking Chamber,DC122200027,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+224,Histostar Cold,-,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+225,Histostar Hot,-,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+226,Microtom,-,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+227,Centrifuger,-,Patalogi Anatomi,Ada,Ada,Ada,Rusak
+228,Stainer,-,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+229,Vortex Mixer,1112023,Patalogi Anatomi,Ada,Ada,Ada,Baik
+230,Inkubator,-,Patalogi Anatomi,Ada,Ada,Tidak,Rusak
+231,Biobase (BSC),3EA1711024,Patologi Klinik,Ada,Tidak,Ada,Baik
+232,Biomerieux,XII-15359,Patologi Klinik,Ada,Tidak,Tidak,Baik
+233,Genexpert,810165,Patologi Klinik,Ada,Tidak,Tidak,Baik
+234,Genexpert,810165,Patologi Klinik,Ada,Tidak,Tidak,Baik
+235,Tensineter,A0855,Transfusi Darah,Ada,Tidak,Ada,Baik
+236,Haemonetics,19JU35PG,Transfusi Darah,Tidak,Tidak,Ada,Baik
+237,Trolley Instrument,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+238,Biomixer,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+239,Timbangan ,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+240,Sentrifuge,43447845,Transfusi Darah,Ada,Ada,Tidak,Baik
+241,Sentrifuge,415866,Transfusi Darah,Ada,Ada,Ada,Baik
+242,Sentrifuge,-,Transfusi Darah,Ada,Ada,Ada,Baik
+243,Contact Shock Freezer,7392313,Transfusi Darah,Ada,Ada,Ada,Baik
+244,Liaison XL,2210004919,Transfusi Darah,Ada,Ada,Ada,Rusak
+245,Freezer,2169686,Transfusi Darah,Ada,Tidak,Tidak,Baik
+246,Blood Bank,9051255,Transfusi Darah,Ada,Tidak,Ada,Baik
+247,Blood Bank,6132388,Transfusi Darah,Ada,Ada,Ada,Baik
+248,Blood Bank,-,Transfusi Darah,Ada,Ada,Tidak,Baik
+249,Blood Bank,1820250010,Transfusi Darah,Ada,Tidak,Tidak,Baik
+250,Blood Bank,1820250009,Transfusi Darah,Ada,Tidak,Tidak,Baik
+251,DG Card Gel,-,Transfusi Darah,Ada,Ada,Tidak,Baik
+252,DG Spin,-,Transfusi Darah,Ada,Tidak,Tidak,Baik
+253,DG Therm,-,Transfusi Darah,Ada,Tidak,Tidak,Baik
+254,Coolbox,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+255,Coolbox,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+256,Coolbox,-,Transfusi Darah,Tidak,Tidak,Tidak,Baik
+257,Coolbox,-,Transfusi Darah,Tidak,Tidak,Tidak,Rusak
+258,Biosealer,56,Transfusi Darah,Ada,Tidak,Ada,Baik
+259,Refrigerator ,-,Transfusi Darah,Ada,Tidak,Tidak,Baik
+260,Ventilator,602841,ICU,Ada,Ada,Ada,Baik
+261,Ventilator,SBCB01245,ICU,Ada,Ada,Ada,Baik
+262,Ventilator,ASBL-0042,ICU,Ada,Ada,Ada,Baik
+263,Ventilator,ASBL-00435,ICU,Ada,Ada,Ada,Baik
+264,Ventilator,ASBL-00467,ICU,Ada,Ada,Ada,Baik
+265,Ventilator,64920,ICU,Ada,Ada,Ada,Baik
+266,Ventilator,GB-6B012345,ICU,Ada,Ada,Ada,Baik
+267,Bedside Monitor,DE52101234,ICU,Ada,Tidak,Ada,Baik
+268,Bedside Monitor,DE52101245,ICU,Ada,Tidak,Ada,Baik
+269,Bedside Monitor,DE52101290,ICU,Ada,Tidak,Ada,Baik
+270,Bedside Monitor,DE52101261,ICU,Ada,Tidak,Ada,Baik
+271,Bedside Monitor,DE52101247,ICU,Ada,Tidak,Ada,Baik
+272,Bedside Monitor,DE52101296,ICU,Ada,Tidak,Ada,Baik
+273,Bedside Monitor,863501234567,ICU,Ada,Ada,Ada,Baik
+274,Bedside Monitor,863501234568,ICU,Ada,Ada,Ada,Baik
+275,Bedside Monitor,863501234570,ICU,Ada,Ada,Ada,Baik
+276,Bedside Monitor,86350122096,ICU,Ada,Ada,Ada,Baik
+277,Infuse Pump,216211222088,ICU,Ada,Tidak,Tidak,Baik
+278,Infuse Pump,216211222023,ICU,Ada,Tidak,Tidak,Baik
+279,Infuse Pump,216211222020,ICU,Ada,Tidak,Tidak,Baik
+280,Infuse Pump,216211222050,ICU,Ada,Tidak,Tidak,Baik
+281,Infuse Pump,216211222076,ICU,Ada,Tidak,Tidak,Baik
+282,Infuse Pump,216211222077,ICU,Ada,Tidak,Tidak,Baik
+283,Infuse Pump,216211222000,ICU,Ada,Tidak,Tidak,Baik
+284,Infuse Pump,216211222014,ICU,Ada,Tidak,Tidak,Baik
+285,Syringe Pump,17080445,ICU,Ada,Tidak,Tidak,Baik
+286,Syringe Pump,17080776,ICU,Ada,Tidak,Tidak,Baik
+287,Syringe Pump,17080798,ICU,Ada,Tidak,Tidak,Baik
+288,Syringe Pump,17080700,ICU,Ada,Tidak,Tidak,Baik
+289,Syringe Pump,17080764,ICU,Ada,Tidak,Tidak,Baik
+290,Syringe Pump,17080743,ICU,Ada,Tidak,Tidak,Baik
+291,Syringe Pump,17080875,ICU,Ada,Tidak,Tidak,Baik
+292,Defibrillator,AR12C01001,ICU,Ada,Tidak,Tidak,Baik
+293,Defibrillator,AR12C01002,ICU,Ada,Tidak,Tidak,Baik
+294,Defibrillator,AR12C01003,ICU,Ada,Tidak,Tidak,Baik
+295,Defibrillator,AR12C01006,ICU,Ada,Tidak,Tidak,Baik
+296,CRRT Macine,PFX01101,ICU,Ada,Tidak,Tidak,Baik
+297,CRRT Macine,PFX01102,ICU,Ada,Tidak,Tidak,Baik
+298,CRRT Macine,PFX01103,ICU,Ada,Tidak,Tidak,Baik
+299,CRRT Macine,PFX01103,ICU,Ada,Tidak,Tidak,Baik
+300,CRRT Macine,PFX01105,ICU,Ada,Tidak,Tidak,Baik
+301,Bedside Ultrasound,043W20,ICU,Ada,Ada,Tidak,Baik
+302,Regulator Okigen,OH-882001,ICU,Ada,Ada,Tidak,Baik
+303,Regulator Okigen,OH-882012,ICU,Ada,Ada,Tidak,Baik
+304,Regulator Okigen,OH-882015,ICU,Ada,Ada,Tidak,Baik
+305,Regulator Okigen,OH-882019,ICU,Ada,Ada,Tidak,Baik
+306,Regulator Okigen,OH-88200,ICU,Ada,Ada,Tidak,Baik
+307,Regulator Okigen,OH-882022,ICU,Ada,Ada,Tidak,Baik
+308,Regulator Okigen,OH-882023,ICU,Ada,Ada,Tidak,Baik
+309,Regulator Okigen,OH-882033,ICU,Ada,Ada,Tidak,Baik
+310,Regulator Okigen,OH-882096,ICU,Ada,Ada,Tidak,Baik
+311,High Flow Nasal Cannula ,2603000121,ICU,Ada,Ada,Tidak,Baik
+312,High Flow Nasal Cannula ,2603000122,ICU,Ada,Ada,Tidak,Baik
+313,High Flow Nasal Cannula ,2603000124,ICU,Ada,Ada,Tidak,Baik
+314,High Flow Nasal Cannula ,2603000128,ICU,Tidak,Ada,Tidak,Baik
+315,High Flow Nasal Cannula ,2603000129,ICU,Tidak,Ada,Tidak,Baik
+316,High Flow Nasal Cannula ,2603000135,ICU,Tidak,Ada,Tidak,Baik
+317,Infuse Pump,2024101001,RICU Infeksius,Ada,Ada,Ada,Baik
+318,Infuse Pump,2024101002,RICU Infeksius,Ada,Ada,Ada,Baik
+319,Infuse Pump,2024101003,RICU Infeksius,Ada,Ada,Ada,Baik
+320,Infuse Pump,88492011015,RICU Infeksius,Ada,Ada,Ada,Baik
+321,Infuse Pump,88492011016,RICU Infeksius,Ada,Ada,Ada,Baik
+322,Infuse Pump,88492011017,RICU Infeksius,Ada,Ada,Ada,Baik
+323,Infuse Pump,88492011004,RICU Infeksius,Ada,Ada,Ada,Baik
+324,Infuse Pump,88492011005,RICU Infeksius,Ada,Ada,Ada,Baik
+325,Infuse Pump,88492011006,RICU Infeksius,Ada,Ada,Ada,Baik
+326,Infuse Pump,88492011007,RICU Infeksius,Ada,Ada,Ada,Baik
+327,Infuse Pump,88492011008,RICU Infeksius,Ada,Ada,Ada,Baik
+328,Infuse Pump,88492011009,RICU Infeksius,Ada,Ada,Ada,Baik
+329,Infuse Pump,88492011010,RICU Infeksius,Ada,Ada,Ada,Baik
+330,Infuse Pump,88492011011,RICU Infeksius,Ada,Ada,Ada,Baik
+331,Suction Portable,7720194420,RICU Infeksius,Ada,Tidak,Ada,Baik
+332,Syringe Pump,44921008801,RICU Infeksius,Ada,Tidak,Ada,Baik
+333,Syringe Pump,44921008802,RICU Infeksius,Ada,Tidak,Ada,Baik
+334,Syringe Pump,44921008803,RICU Infeksius,Ada,Tidak,Ada,Baik
+335,Syringe Pump,44921008804,RICU Infeksius,Ada,Tidak,Ada,Baik
+336,Syringe Pump,44921008805,RICU Infeksius,Ada,Tidak,Ada,Baik
+337,Syringe Pump,44921008806,RICU Infeksius,Ada,Tidak,Ada,Baik
+338,Syringe Pump,44921008807,RICU Infeksius,Ada,Tidak,Ada,Baik
+339,Mesin RO Portable,55019283,RICU Infeksius,Tidak,Tidak,Tidak,Baik
+340,ECG,100998273645,RICU Infeksius,Ada,Ada,Ada,Baik
+341,Defibrillator,6002938471,RICU Infeksius,Ada,Ada,Ada,Baik
+342,Bed Side Monitor,551029384701,RICU Infeksius,Ada,Tidak,Ada,Baik
+343,Bed Side Monitor,551029384702,RICU Infeksius,Ada,Tidak,Ada,Baik
+344,Bed Side Monitor,551029384703,RICU Infeksius,Ada,Tidak,Ada,Baik
+345,Bed Side Monitor,551029384704,RICU Infeksius,Ada,Tidak,Ada,Baik
+346,Ventilator,1029384756,RICU Infeksius,Ada,Tidak,Ada,Baik
+347,Ventilator,1029384757,RICU Infeksius,Ada,Tidak,Ada,Baik
+348,Nasal Canula,NC-LOK-2401,RICU Infeksius,Ada,Tidak,Ada,Baik
+349,Nasal Canula,NC-LOK-2402,RICU Infeksius,Ada,Tidak,Ada,Baik
+350,Nasal Canula,NC-LOK-2403,RICU Infeksius,Ada,Tidak,Ada,Baik
+351,Airway Ventilator,LTV2400120,RICU Infeksius,Ada,Ada,Ada,Baik
+352,Ventilator,GB-6B011501,RICU Infeksius,Ada,Ada,Ada,Baik
+353,Ventilator,GB-6B011502,RICU Infeksius,Ada,Ada,Ada,Baik
+354,Nebulizer,MN-NEB-24001,RICU Infeksius,Tidak,Ada,Ada,Baik
+355,Stretcher,PO-STR-24001,RICU Infeksius,Tidak,Ada,Ada,Baik
+356,Stretcher,P1-240102,RICU Infeksius,Tidak,Ada,Ada,Baik
+357,High Flow Nasal Cannula ,GLP-2024-002,RICU Infeksius,Tidak,Ada,Ada,Baik
+358,High Flow Nasal Cannula ,GLP-2024-003,RICU Infeksius,Tidak,Ada,Ada,Baik
+359,High Flow Nasal Cannula ,GLP-2024-004,RICU Infeksius,Tidak,Ada,Ada,Baik
+360,High Flow Nasal Cannula ,GLP-2024-005,RICU Infeksius,Tidak,Ada,Ada,Baik
+361,High Flow Nasal Cannula ,GLP-2024-006,RICU Infeksius,Tidak,Ada,Ada,Baik
+362,Neonatal Table,SZ-3301928,RICU Infeksius,Tidak,Ada,Ada,Baik
